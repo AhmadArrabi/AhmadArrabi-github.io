@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We got a paper accepted in [https://wacv2025.thecvf.com/](WACV 2025)!
+We got a paper accepted in [WACV 2025](https://wacv2025.thecvf.com/)!

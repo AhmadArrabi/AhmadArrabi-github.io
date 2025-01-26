@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [https://www.wshahaigroup.com/about](lab) will be presenting a tutorial session on [https://zxh009123.github.io/WACV25_CVGL_Tutorial/](cross-view geolocalization) at [https://wacv2025.thecvf.com/](WACV 2025)! Join us!
+Our [lab](https://www.wshahaigroup.com/about) will be leading a tutorial session on [cross-view geolocalization](https://zxh009123.github.io/WACV25_CVGL_Tutorial/) at [WACV 2025](https://wacv2025.thecvf.com/)! Join us!

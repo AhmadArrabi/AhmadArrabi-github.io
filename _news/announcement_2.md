@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We got a paper accepted in [https://biomedicalimaging.org/2025/](ISBI 2025)!
+We got a paper accepted in [ISBI 2025](https://biomedicalimaging.org/2025/)!

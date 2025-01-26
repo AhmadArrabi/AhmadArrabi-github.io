@@ -6,7 +6,7 @@
     "email": "ahmad.arrabi@uvm.edu",
     "phone": "(802) 330-6030",
     "url": "https://ahmadarrabi.github.io/",
-    "summary": "CS PhD student at the university of vermont doing research in generative models.",
+    "summary": "CS PhD student @ UVM researching in generative models.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,19 +22,19 @@
   ],
   "education": [
     {
-      "institution": "University of Vermont",
-      "location": "Burlington, Vermont",
-      "url": "https://www.uvm.edu/",
-      "area": "Computer Science",
-      "studyType": "PhD"
-    },
-    {
       "institution": "Princess Sumaya University for Technology",
       "location": "Amman, Jordan",
       "url": "https://www.psut.edu.jo/",
       "area": "Computer Engineering",
       "studyType": "BSc"
-    }
+    },
+    {
+      "institution": "University of Vermont",
+      "location": "Burlington, Vermont",
+      "url": "https://www.uvm.edu/",
+      "area": "Computer Science",
+      "studyType": "PhD"
+    }    
   ],
   "certificates": [
     {
@@ -59,7 +59,7 @@
     {
       "name": "Professor Safwan Wshah",
       "icon": "fa-solid fa-laptop",
-      "reference": "Adviser"
+      "reference": "Adviser  safwan.wshah@uvm.edu"
     }
   ]
 }
