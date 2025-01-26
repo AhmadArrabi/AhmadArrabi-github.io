@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "Publications are sorted by date. (*) denotes equal contribution",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -55,14 +55,14 @@ ninja.data = [{
     },{id: "news-we-got-a-paper-accepted-in-wacv-2025",
           title: 'We got a paper accepted in WACV 2025!',
           description: "",
+          section: "News",},{id: "news-our-lab-will-be-leading-a-tutorial-session-on-cross-view-geolocalization-at-wacv-2025-join-us",
+          title: 'Our lab will be leading a tutorial session on cross-view geolocalization at WACV...',
+          description: "",
           section: "News",},{id: "news-we-got-a-paper-accepted-in-isbi-2025",
           title: 'We got a paper accepted in ISBI 2025!',
           description: "",
           section: "News",},{id: "news-i-finally-made-a-website-smile",
           title: 'I finally made a website! :smile:',
-          description: "",
-          section: "News",},{id: "news-our-lab-will-be-leading-a-tutorial-session-on-cross-view-geolocalization-at-wacv-2025-join-us",
-          title: 'Our lab will be leading a tutorial session on cross-view geolocalization at WACV...',
           description: "",
           section: "News",},{
         id: 'social-email',
