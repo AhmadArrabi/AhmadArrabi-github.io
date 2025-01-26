@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ahmad Arrabi",
+    "label": "Ph.D. student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ahmad.arrabi@uvm.edu",
+    "phone": "",
+    "url": "https://ahmadarrabi.github.io/",
+    "summary": "I am a 3rd year computer science Ph.D. student at the university of vermont. My research interest is in generative models, and I also do some applied work in medical imaging and remote sensing. Currenlty I am more focused on score based diffusion models and their applications.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Burlington",
       "countryCode": "US",
-      "region": "California"
+      "region": "Vermont"
     },
     "profiles": [
       {
